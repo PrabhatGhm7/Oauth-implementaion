@@ -1,1 +1,1 @@
-#Google Authentication Implementation using Django all auth
+Google Authentication Implementation using Django all auth
